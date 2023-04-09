@@ -1,0 +1,85 @@
+/* Reset default styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Set default font size and color */
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #800000;
+  background-color: #faebd7;
+}
+
+/* Header styles */
+header {
+  background-color: #008080;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav li {
+  margin-right: 1rem;
+}
+
+nav a {
+  color: #800000;
+  text-decoration:
+}
+  #hero {
+  text-align: center;
+}
+
+ #about {
+  text-align: center;
+  /* The image used */
+  background-image: url("aa.png");
+
+  /* Control the height of the image */
+  min-height: 700px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+
+}
+
+ #projects {
+  /* The image used */
+  background-image: url("aa.png");
+
+  /* Control the height of the image */
+  min-height: 700px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
